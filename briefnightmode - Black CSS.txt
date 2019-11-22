@@ -1,0 +1,106 @@
+.sidebar-button {
+    color: #A2A2A2 !important;
+}
+#sidebar-top {
+    border-bottom: 1px solid #3c3c3c !important;
+}
+#sidebar {
+    background-color: #000000 !important;
+}
+tree-item.selected, tree-folder.selected > tree-folder-header {
+	border-color: transparent !important;
+    background-color: #3c3c3c !important;
+}
+tree-item:hover:not(.selected), tree-folder:not(.selected) > tree-folder-header:hover {
+    background-color: #3c3c3c  !important;
+}
+tree-item > .title, tree-folder-header > .title, tree-folder-footer > .title {
+    color: #A2A2A2 !important;
+}
+tree-item:hover:not(.selected), tree-folder:not(.selected) > tree-folder-header:hover {
+background-color: #000000 !important;
+border-color: #A2A2A2 !important;
+}
+tree-item:-moz-drag-over,
+tree-folder-header:-moz-drag-over,
+tree-folder-footer:-moz-drag-over {
+    background-color: #000000 !important;
+}
+#feed-view-header {
+	background: #000000 !important;
+}
+#view-list > tree-item > .title {
+    color: #A2A2A2 !important;
+}
+#view-title-label {
+    color: #A2A2A2 !important;
+}
+body {
+    background: #000000 !important;
+}
+#sidebar-splitter, #tag-list-splitter {
+    border-left: 1px solid #3c3c3c !important;
+	border-right: 3px solid #3c3c3c !important;
+}
+#main-message {
+    color: #A2A2A2;
+}
+#feed-list.organize, #organize-button.organize {
+    background-color: #3c3c3c !important;
+}
+label.title[contenteditable="true"] {
+    background: #000000 !important;
+}
+label.title[contenteditable="true"]:empty::after {
+    content: "<Type here to create folder>";
+}
+context-menu {
+    background-color: #000000 !important;
+}
+menu-item {
+    color: #A2A2A2 !important;
+}
+menu-item:hover {
+    background-color: #3c3c3c !important;
+}
+#searchbar {
+    border: 1px solid #3c3c3c !important;
+	color: #F9F9F9 !important;
+}
+.headline-container:hover > .headline-header {
+    background-color: #3c3c3c !important;
+}
+.headline-feed-name {
+    color: #A2A2A2 !important;
+}
+article.read .headline-title {
+    color: #767676 !important;
+}
+article.read .title-link {
+    color: #767676 !important;
+}
+.headline-title {
+    color: #A2A2A2 !important;
+}
+.collapse-button:hover {
+    background-color: #3c3c3c !important;
+}
+.title-link {
+    color: #A2A2A2 !important;
+}
+.full-container-inner {
+    background: #000000 !important;
+	border: 2px solid #3c3c3c !important;
+}
+.content {
+    color: #7c7c7c !important;
+}
+.headline-header {
+    border-bottom: 1px solid #3c3c3c;
+}
+.day-header {
+	color:#A2A2A2 !important;
+}
+.content a {
+    color: #4e738e !important;
+}

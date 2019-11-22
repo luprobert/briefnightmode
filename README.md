@@ -10,18 +10,18 @@ Go to **Firefox Add-ons** -> **Extensions** -> Select Extension "**Brief**" -> C
 ### Grey Version
 ![briefnightmode - Grey](briefnightmode%20-%20Grey.png)
 
-### ![Grey CSS Code](https://raw.githubusercontent.com/luprobert/briefnightmode/master/briefnightmode%20-%20Grey%20CSS.txt)
+### [Grey CSS Code](https://raw.githubusercontent.com/luprobert/briefnightmode/master/briefnightmode%20-%20Grey%20CSS.txt  "Grey CSS File")
 
 ------------------------------------------------------------------------------------------------------------------
 ### Darker Version
 ![briefnightmode - Darker](briefnightmode%20-%20Darker.png)
 
-### ![Darker CSS Code](https://raw.githubusercontent.com/luprobert/briefnightmode/master/briefnightmode%20-%20Darker%20CSS.txt)
+### [Darker CSS Code](https://raw.githubusercontent.com/luprobert/briefnightmode/master/briefnightmode%20-%20Darker%20CSS.txt "Darker CSS File")
 
 ------------------------------------------------------------------------------------------------------------------
 ### Black Version
 ![briefnightmode - Black](briefnightmode%20-%20Black.png)
 
-### ![Black CSS Code](https://raw.githubusercontent.com/luprobert/briefnightmode/master/briefnightmode%20-%20Black%20CSS.txt)
+### [Black CSS Code](https://raw.githubusercontent.com/luprobert/briefnightmode/master/briefnightmode%20-%20Black%20CSS.txt "Black CSS File")
 
 ------------------------------------------------------------------------------------------------------------------
